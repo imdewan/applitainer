@@ -42,8 +42,6 @@ Applitainer is a shared portable Vercel alternative for hosting Node.js and Next
 4. Deploy the application:
 
    ```sh
-   # Start the Golang server
-   ./server/server
 
    # Start the Next.js application
    bun run dev
